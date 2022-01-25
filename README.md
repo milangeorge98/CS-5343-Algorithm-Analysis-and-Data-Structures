@@ -1,1 +1,1 @@
-# CS-5343-Algorithm-Analysyis-and-Data-Structures
+# CS-5343-Algorithm-Analysis-and-Data-Structures
